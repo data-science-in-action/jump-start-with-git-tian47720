@@ -1,0 +1,8 @@
+mkdir learning
+cd learning
+touch first.txt
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin jump-start-with-git-tian47720
+git push -u origin master
